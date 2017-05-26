@@ -10,4 +10,6 @@ web前端学习
 ## [==和===的区别](http://www.cnblogs.com/xdp-gacl/p/3668426.html)
   看里面的例子就明白了
   
-## [函数function]()
+## [函数function](http://www.cnblogs.com/xdp-gacl/p/3677944.html)
+
+## [数组]()
